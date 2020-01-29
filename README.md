@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/EYFSOAdvisory/Advanced%20Engineering/_apis/build/status/kaushique.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/EYFSOAdvisory/Advanced%20Engineering/_build/latest?definitionId=1167&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
